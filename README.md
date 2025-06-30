@@ -1,7 +1,5 @@
 # Guardian AI - Public Safety Chatbot
 
-![Guardian AI Screenshot](https://klewwpic.manus.space/screenshot.png)
-
 ## 🚀 Live Demo
 [Try Guardian AI Now](https://klewwpic.manus.space)
 
