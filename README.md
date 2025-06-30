@@ -1,9 +1,3 @@
-# Guardian Indy
-Civic Tech chatbot for public safety solutions
-
-
-Here's a GitHub README that will satisfy the "Technical Implementation" portion of the hackathon:
-
 # Guardian AI - Public Safety Chatbot
 
 ![Guardian AI Screenshot](https://klewwpic.manus.space/screenshot.png)
